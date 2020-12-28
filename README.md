@@ -1,10 +1,14 @@
+<body 
+  style="background-image: url(https://www.transparenttextures.com/patterns/asfalt-light.png);"
+>
+
 <h1 align="center">
   Hello 👋, I'm Étienne LC
 </h1>
 
-<h2 align="center">General Engineer turned Full-Stack Developer</h2>
-
-<br>
+<h3 align="center">
+  General Engineer turned Full-Stack Developer
+</h3>
 
 ## 🛠️ My tools:
 
@@ -45,14 +49,16 @@
   <img src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png" alt="RSpec" height=30px>
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" height=30px>
   <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height=30px>
-
 </p>
+
+<br>
 
 ## 📫 Reach out :
 <a href="https://www.linkedin.com/in/etienne-le-coent/">
   <img 
     class="contacts"
-    src="https://cdn.svgporn.com/logos/linkedin.svg" alt="LinkedIn"
-    width=30%
+    src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="LinkedIn"
+    width=10%
   >
 </a>
+</body>
