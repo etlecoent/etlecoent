@@ -11,10 +11,11 @@
 ## 🛠️ My tools:
 
 ### Front-End
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width=5%>
-<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width=5%>
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width=5%>
-
+<p>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width=5%>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width=5%>
+  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width=5%>
+</p>
 ### Back-End
 
 
