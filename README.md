@@ -1,8 +1,8 @@
-<h1 style="text-align: center">
+<h1 align="center">
   Hello 👋, I'm Étienne LC
 </h1>
 
-<h2 style="text-align: center">General Engineer turned Full-Stack Developer</h2>
+<h2 align="center">General Engineer turned Full-Stack Developer</h2>
 
 <br>
 
