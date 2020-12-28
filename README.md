@@ -56,7 +56,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deteri0n&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<br>
 
 ## 📫 Reach out :
 <a href="https://www.linkedin.com/in/etienne-le-coent/">
