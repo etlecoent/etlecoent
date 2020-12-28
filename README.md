@@ -1,7 +1,3 @@
-<div 
-  style="background-image: url(https://www.transparenttextures.com/patterns/asfalt-light.png);"
->
-
 <h1 align="center">
   Hello 👋, I'm Étienne LC
 </h1>
@@ -9,6 +5,8 @@
 <h3 align="center">
   General Engineer turned Full-Stack Developer
 </h3>
+
+<br>
 
 ## 🛠️ My tools:
 
@@ -52,6 +50,11 @@
 
 <br>
 
+## 📊 Statistics
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deteri0n&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ## 📫 Reach out :
 <a href="https://www.linkedin.com/in/etienne-le-coent/">
   <img 
@@ -60,4 +63,3 @@
     width=30px
   >
 </a>
-</div>
