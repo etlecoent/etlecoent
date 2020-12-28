@@ -12,19 +12,49 @@
 
 ### Front-End
 <p>
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width=5%>
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" width=5%>
-  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width=5%>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" height=35px>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" height=35px>
+  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" height=30px>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript (JS)" height=30px>
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height=30px>
+  <img src="https://cdn.svgporn.com/logos/sass.svg" alt="Sass" height=30px>
+  <img src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma" height=30px>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jQuery" height=30px>
 </p>
+
 ### Back-End
+<p>
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node.js" height=30px>
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" height=30px>
+  <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" height=30px>
+  <img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="Socket.io" height=30px>
+  <img src="https://img.stackshare.io/service/6417/jwt-icon.png
+  " alt="Socket.io" height=30px>
+  <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" height=30px>
+  <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=30px>
+  <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="Express" height=30px>
+  <img src="https://www.yaya.today/img/referral/Technologies/tech_rubyonrails.png" alt="Rails" height=30px>
+</p>
 
+### Other
+<p>
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" height=30px>
+  <img src="https://cdn.svgporn.com/logos/cypress.svg" alt="Cypress" height=30px>
+  <img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="Storybook" height=30px>
+  <img src="https://cdn.svgporn.com/logos/jest.svg" alt="Jest" height=30px>
+  <img src="https://cdn.svgporn.com/logos/mocha.svg" alt="Mocha" height=30px>
+  <img src="https://cdn.svgporn.com/logos/chai.svg" alt="Chai" height=30px>
+  <img src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png" alt="RSpec" height=30px>
+  <img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="ubuntu" height=30px>
+  <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height=30px>
 
-<br>
+</p>
 
 ## 📫 Reach out :
 <a href="https://www.linkedin.com/in/etienne-le-coent/">
   <img 
     class="contacts"
     src="https://cdn.svgporn.com/logos/linkedin.svg" alt="LinkedIn"
+    width=30%
   >
 </a>
