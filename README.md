@@ -1,4 +1,4 @@
-<body 
+<div 
   style="background-image: url(https://www.transparenttextures.com/patterns/asfalt-light.png);"
 >
 
@@ -30,8 +30,8 @@
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" height=30px>
   <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" height=30px>
   <img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="Socket.io" height=30px>
-  <img src="https://img.stackshare.io/service/6417/jwt-icon.png
-  " alt="Socket.io" height=30px>
+  <img src="https://jwt.io//img/pic_logo.svg
+  " alt="JWT" height=30px>
   <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" height=30px>
   <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=30px>
   <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="Express" height=30px>
@@ -58,7 +58,7 @@
   <img 
     class="contacts"
     src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="LinkedIn"
-    width=10%
+    width=30px
   >
 </a>
-</body>
+</div>
