@@ -30,7 +30,7 @@
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" height=30px>
   <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" height=30px>
   <img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="Socket.io" height=30px>
-  <img src="https://jwt.io//img/pic_logo.svg
+  <img src="https://jwt.io/img/pic_logo.svg
   " alt="JWT" height=30px>
   <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" height=30px>
   <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height=30px>
