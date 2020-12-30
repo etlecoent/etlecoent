@@ -18,6 +18,7 @@
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript (JS)" height=30px>
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height=30px>
   <img src="https://cdn.svgporn.com/logos/sass.svg" alt="Sass" height=30px>
+  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="Tailwind CSS" height=30px>
   <img src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma" height=30px>
   <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png" alt="jQuery" height=30px>
 </p>
