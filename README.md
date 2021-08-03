@@ -54,7 +54,7 @@
 ## 📊 Statistics
 <div align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deteri0n&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=etlecoent&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
